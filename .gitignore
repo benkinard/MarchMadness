@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+venv/
+.idea/
+*.xlsx
+*.csv
+Data/model.pkl
